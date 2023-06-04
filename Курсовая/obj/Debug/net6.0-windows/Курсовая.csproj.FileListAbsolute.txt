@@ -1,0 +1,17 @@
+C:\Users\Кирилл Владимирович\Desktop\ооп\лр7-8\Курсовая\Курсовая\bin\Debug\net6.0-windows\Курсовая.exe
+C:\Users\Кирилл Владимирович\Desktop\ооп\лр7-8\Курсовая\Курсовая\bin\Debug\net6.0-windows\Курсовая.deps.json
+C:\Users\Кирилл Владимирович\Desktop\ооп\лр7-8\Курсовая\Курсовая\bin\Debug\net6.0-windows\Курсовая.runtimeconfig.json
+C:\Users\Кирилл Владимирович\Desktop\ооп\лр7-8\Курсовая\Курсовая\bin\Debug\net6.0-windows\Курсовая.dll
+C:\Users\Кирилл Владимирович\Desktop\ооп\лр7-8\Курсовая\Курсовая\bin\Debug\net6.0-windows\Курсовая.pdb
+C:\Users\Кирилл Владимирович\Desktop\ооп\лр7-8\Курсовая\Курсовая\obj\Debug\net6.0-windows\Курсовая.csproj.AssemblyReference.cache
+C:\Users\Кирилл Владимирович\Desktop\ооп\лр7-8\Курсовая\Курсовая\obj\Debug\net6.0-windows\Курсовая.Form1.resources
+C:\Users\Кирилл Владимирович\Desktop\ооп\лр7-8\Курсовая\Курсовая\obj\Debug\net6.0-windows\Курсовая.csproj.GenerateResource.cache
+C:\Users\Кирилл Владимирович\Desktop\ооп\лр7-8\Курсовая\Курсовая\obj\Debug\net6.0-windows\Курсовая.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл Владимирович\Desktop\ооп\лр7-8\Курсовая\Курсовая\obj\Debug\net6.0-windows\Курсовая.AssemblyInfoInputs.cache
+C:\Users\Кирилл Владимирович\Desktop\ооп\лр7-8\Курсовая\Курсовая\obj\Debug\net6.0-windows\Курсовая.AssemblyInfo.cs
+C:\Users\Кирилл Владимирович\Desktop\ооп\лр7-8\Курсовая\Курсовая\obj\Debug\net6.0-windows\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл Владимирович\Desktop\ооп\лр7-8\Курсовая\Курсовая\obj\Debug\net6.0-windows\Курсовая.dll
+C:\Users\Кирилл Владимирович\Desktop\ооп\лр7-8\Курсовая\Курсовая\obj\Debug\net6.0-windows\refint\Курсовая.dll
+C:\Users\Кирилл Владимирович\Desktop\ооп\лр7-8\Курсовая\Курсовая\obj\Debug\net6.0-windows\Курсовая.pdb
+C:\Users\Кирилл Владимирович\Desktop\ооп\лр7-8\Курсовая\Курсовая\obj\Debug\net6.0-windows\Курсовая.genruntimeconfig.cache
+C:\Users\Кирилл Владимирович\Desktop\ооп\лр7-8\Курсовая\Курсовая\obj\Debug\net6.0-windows\ref\Курсовая.dll
